@@ -5,7 +5,6 @@ wbellman's Wiki
 ```perl 
 print "Hello World!\n"
 ```
-
 ```c#
 public class Program {
   static void Main(string[] args){
@@ -13,11 +12,9 @@ public class Program {
   }
 }
 ```
-
 ```ruby
 puts "Hello World!"
 ```
-
 ```java
 public class Program {
   public static void main( String[] args ){
@@ -25,5 +22,13 @@ public class Program {
   }
 }
 ```
-
-
+```html
+<html>
+  <head>
+    <title>Hello</title>
+  </head>
+  <body>
+    Hello World!
+  </body>
+</html>
+```
